@@ -1,0 +1,87 @@
+@media(max-width: 900px){
+    h1,
+    h2,
+    h3 {
+        font-size: 20px !important;
+    }
+
+    h4 {
+        font-size: 18px !important;
+    }
+
+    h5 {
+        font-size: 16px !important;
+    }
+
+    h6 {
+        font-size: 14px !important;
+    }
+
+    p , a {
+        font-size: 12px !important;
+    }
+    .fixed-top
+    {
+        position: static;
+    }
+    .best-porduction .owl-carousel .owl-nav button.owl-next
+    {
+        left: 0 !important;
+    }
+    .best-porduction .owl-carousel .owl-nav button.owl-prev
+    {
+        right: 0 !important;
+    }
+    .nav .nav-container .nav-content  .navbar-nav,
+    .nav .nav-container .nav-market ,
+    header .mobile-none ,
+    header .slider-content .swiper-pagination ,
+    .product-list .nav a span ,
+    .options .box.border-shape::after
+    {
+        display: none !important;
+    }
+    nav .nav-container .nav-content .image-content
+    {
+        margin: auto;
+    }
+    .scroll-top-btn ,
+    footer .copyrights .copyrights-contain p
+    {
+        bottom: 5px;
+    }
+    .bottom-mobile-nav ,
+    .product-list .nav a img ,
+    .share
+    {
+        display: block;
+    }
+    header .slider-content .swiper-slide .slide-content 
+    {
+        padding: 0px 10px;
+        width: 100%;
+    }
+    .best-porduction ,
+    .product-list
+    {
+        padding: 0px !important ;
+    }
+    footer .copyrights ,
+    .banners
+    {
+        padding: 20px 0px 60px 0px;
+    }
+    footer .copyrights .copyrights-contain
+    {
+        flex-direction: column;
+    }
+    header .slider-content {
+        height: 200px !important;
+    }
+    header .slider-content .swiper-slide{
+        height: 100% !important;
+    }
+    .popup .popup-inner {
+        width: 90%;
+    }
+}
